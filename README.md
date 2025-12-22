@@ -1,7 +1,7 @@
 # 👨🏻‍💻​ Wallison Lucas
 **`Desenvolvedor Backend`**
 
-Me chamo Wallison Lucas Fernandes de Araújo, tenho 31 anos e sou natural da Paraíba. Atualmente estou estudante Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) - Campus Monteiro. Sempre fui aquele que queria saber como as coisas funcionavam, meu interesse pela internet e jogos evoluiu naturalmente para a programação. Estou animado para usar meu conhecimento como ponto de partida para resolver problemas reais e criar inovações.
+Olá! Eu sou Wallison Lucas Fernandes de Araújo, tenho 31 anos e sou natural da Paraíba. Atualmente estou estudante Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) - Campus Monteiro. Sempre fui aquele que queria saber como as coisas funcionavam, meu interesse pela internet e jogos evoluiu naturalmente para a programação. Estou animado para usar meu conhecimento como ponto de partida para resolver problemas reais e criar inovações.
 
 <br/>
 <div align="left">
